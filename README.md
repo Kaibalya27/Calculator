@@ -2,7 +2,7 @@
 
 ## Overview
 
-**Calculator** is a calculator application built with Python’s Tkinter library. It provides functionality for addition, subtraction, multiplication, division, and exponentiation. The application features a user-friendly interface with clear input/output displays and intuitive controls.
+**Calculator** is an application built with Python’s Tkinter library. It provides functionality for addition, subtraction, multiplication, division, and exponentiation. The application features a user-friendly interface with clear input/output displays and intuitive controls.
 
 ## Features
 
